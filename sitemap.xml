@@ -2,6 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://pamilator.github.io/project/website/</loc>
+    <lastmod>2023-07-22T23:47:40+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://pamilator.github.io/project/</loc>
+    <lastmod>2023-07-22T23:47:40+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://pamilator.github.io/post/</loc>
     <lastmod>2023-07-22T17:38:28+02:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -14,30 +22,6 @@
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://pamilator.github.io/tag/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://pamilator.github.io/tag/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://pamilator.github.io/project/example/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://pamilator.github.io/project/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://pamilator.github.io/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://pamilator.github.io/tags/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://pamilator.github.io/admin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -45,6 +29,9 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://pamilator.github.io/publication_types/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://pamilator.github.io/tags/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
