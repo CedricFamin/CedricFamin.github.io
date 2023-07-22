@@ -17,10 +17,13 @@
       <link>https://pamilator.github.io/project/website/</link>
       <pubDate>Sat, 22 Jul 2023 23:47:40 +0200</pubDate>
       <guid>https://pamilator.github.io/project/website/</guid>
-      <description>&lt;h1 id=&#34;welcome-to-my-personal-website&#34;&gt;Welcome to my Personal Website!&lt;/h1&gt;
-&lt;p&gt;I originally created this website using Twitter Bootstrap. However, I later decided to rebuild it with &lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt;, a platform that I had never worked with before. But to be honest, I now truly appreciate its capabilities :).&lt;/p&gt;
-&lt;p&gt;Hugo has made it incredibly easy for me to create, manage, and publish content like what you are seeing here.&lt;/p&gt;
-&lt;h2 id=&#34;how-i-deploy-the-site&#34;&gt;How I deploy the site?&lt;/h2&gt;
+      <description>&lt;p&gt;Hey there!&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m excited to introduce you to my personal website, a space where I showcase my freelance journey and share my tech-related insights. As a data engineer and DevOps enthusiast, I wanted to create a platform that not only demonstrates my skills but also serves as a support to write about my projects and reflections.&lt;/p&gt;
+&lt;h1 id=&#34;the-motivation-behind-the-site&#34;&gt;The Motivation Behind the Site&lt;/h1&gt;
+&lt;p&gt;Being more inclined towards data engineering and DevOps, I never considered myself a web developer. However, I realized the importance of having an online presence to showcase my work and engage with the tech community. Hence, I decided to take on the challenge of building my website.&lt;/p&gt;
+&lt;h1 id=&#34;choosing-hugo-and-github&#34;&gt;Choosing Hugo and GitHub&lt;/h1&gt;
+&lt;p&gt;As a non-web developer, I needed a static site generator that was easy to use and flexible. After some research, I came across Hugo, and it perfectly fit my requirements. Its simplicity and speed made the website development process smooth and enjoyable.&lt;/p&gt;
+&lt;p&gt;To host the website, I opted for GitHub Pages. This choice allowed me to keep my website code and content separate. I set up two separate GitHub repositories: &amp;ldquo;&lt;a href=&#34;https://github.com/Pamilator/personal_website&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;personal_website&lt;/a&gt;&amp;rdquo; to hold the raw Hugo code, and &amp;ldquo;&lt;a href=&#34;https://github.com/Pamilator/Pamilator.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pamilator.github.io&lt;/a&gt;&amp;rdquo; to publish the compiled version of the site.&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -49,13 +52,9 @@
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;p&gt;In my infrastructure, I have two Git repositories. The first one, &amp;ldquo;personal_website,&amp;rdquo; contains all the Hugo code required to build the site. The second one, &amp;ldquo;Pamilator.github.io,&amp;rdquo; receives the &amp;ldquo;public&amp;rdquo; folder generated during the build, which represents the actual website. I deliberately separated the code from the result, and for now, it&amp;rsquo;s sufficient for my needs.&lt;/p&gt;
-&lt;p&gt;Feel free to check out my repositories:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/Pamilator/Pamilator.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pamilator.github.io&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/Pamilator/personal_website&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;personal_website&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Not much more to say for now, but I&amp;rsquo;m considering purchasing a fancy domain name, something like cedricfamin.me. Stay tuned for updates! 😄&lt;/p&gt;
+&lt;h1 id=&#34;blogging-about-tech-insights&#34;&gt;Blogging About Tech Insights&lt;/h1&gt;
+&lt;p&gt;In addition to displaying my freelance projects, my website serves as a blog platform. Here, I regularly write about various tech-related topics, including data engineering best practices, DevOps automation, and emerging trends in the tech industry. Blogging not only helps me organize my thoughts but also allows me to contribute to the community&amp;rsquo;s knowledge base.&lt;/p&gt;
+&lt;p&gt;Thanks for stopping by!&lt;/p&gt;
 </description>
     </item>
     
