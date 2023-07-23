@@ -5,12 +5,27 @@
     <link>https://pamilator.github.io/post/</link>
       <atom:link href="https://pamilator.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 22 Jul 2023 17:38:28 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 23 Jul 2023 23:07:35 +0200</lastBuildDate>
     <image>
       <url>https://pamilator.github.io/media/icon_hu6ff448369b23ddcf5d800dfb446cd74f_6413_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://pamilator.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>TFT Battler: Le Travail Récréatif ?</title>
+      <link>https://pamilator.github.io/post/tft-battler-le-travail-recreatif/</link>
+      <pubDate>Sun, 23 Jul 2023 23:07:35 +0200</pubDate>
+      <guid>https://pamilator.github.io/post/tft-battler-le-travail-recreatif/</guid>
+      <description>&lt;p&gt;J&amp;rsquo;ai toujours aimé l&amp;rsquo;expression &amp;ldquo;travail récréatif&amp;rdquo;. C&amp;rsquo;est toujours la même chose qui m&amp;rsquo;arrive quand je découvre une nouvelle technologie. Je passe des jours et des nuits à pondre un projet qui n&amp;rsquo;a ni queue ni tête.&lt;/p&gt;
+&lt;p&gt;Dernièrement, je voulais renforcer mes compétences en Infrastructure-As-Code (IAC). J&amp;rsquo;ai déjà de bonnes connaissances en Docker, mais j&amp;rsquo;ai toujours été intéressé par Terraform. Alors, je me lance.&lt;/p&gt;
+&lt;h1 id=&#34;le-projet&#34;&gt;Le projet&lt;/h1&gt;
+&lt;p&gt;Le petit projet s&amp;rsquo;appelle TFT Battler, dont le but est de déterminer qui a l&amp;rsquo;avantage entre deux challengers du célèbre jeu Teamfight Tactics (j&amp;rsquo;avoue y passer beaucoup trop d&amp;rsquo;heures). L&amp;rsquo;objectif sera de me former sur Terraform et de mettre en place une infrastructure viable sur AWS, le plus &amp;ldquo;serverless&amp;rdquo; possible.&lt;/p&gt;
+&lt;p&gt;Au moment où j&amp;rsquo;écris cet article, le projet a déjà commencé. J&amp;rsquo;avais un peu laissé de côté, mais écrire ce post me redonne un peu de motivation. Je ferai certainement d&amp;rsquo;autres posts concernant ce projet, notamment sur les choix que je fais pour l&amp;rsquo;aspect serverless.&lt;/p&gt;
+&lt;p&gt;Je vais également intégrer Algolia dans le projet, je ne suis pas sûr du comment/pourquoi, mais j&amp;rsquo;ai envie de comprendre comment ça fonctionne.&lt;/p&gt;
+&lt;p&gt;Stay tuned :).&amp;quot;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Pourquoi le blog en Francais ?</title>
